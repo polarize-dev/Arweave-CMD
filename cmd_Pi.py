@@ -10,7 +10,7 @@ l = "enable randomx_large_pages"
 
 
 #add spesifict directory for Arweave data
-p_path = "data_dir <path>"
+p = "<path>"
 
 
 #Start mining
