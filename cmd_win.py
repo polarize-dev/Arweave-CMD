@@ -22,7 +22,7 @@ s = "sync_jobs 80"
 
 
 #Do not Sync
-ns = "syn_jobs 0"
+ns = "sync_jobs 0"
 
 
 WalletAddress = "<your mining address here>"
