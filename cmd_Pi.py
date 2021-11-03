@@ -25,12 +25,12 @@ s = "sync_jobs 80"
 ns = "sync_jobs 0"
 
 
-WalletAddress = "<Your Mining Wallet Address here>"
-
 
 #################### CHANGE HERE ####################
-#Add the letters that represent your commands to the Arweave node
 
+WalletAddress = "<Your Mining Wallet Address here>"
+
+#Add the letters that represent your commands to the Arweave node
 CMD = [c,l,m,s]
 
 ################## END CHANGE ZONE ##################
